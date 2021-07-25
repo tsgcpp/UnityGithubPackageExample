@@ -1,0 +1,30 @@
+{
+    "name": "com.tsgcpp.unitygithubpackageexample.script",
+    "version": "2.3.4",
+    "displayName": "Script Package Example",
+    "description": "Script Package Example for UnityGithubPackageExample",
+    "unity": "2019.4",
+    "keywords": [
+        "tsgcpp",
+        "script"
+    ],
+    "license": "UNLICENSED",
+    "dependencies": {},
+    "author": {
+        "name": "tsgcpp",
+        "url": "https://github.com/tsgcpp"
+    },
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tsgcpp/UnityGithubPackageExample.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tsgcpp/UnityGithubPackageExample/issues"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@tsgcpp"
+    }
+}
