@@ -1,0 +1,32 @@
+{
+    "name": "com.tsgcpp.unitygithubpackageexample.prefab",
+    "version": "3.4.5",
+    "displayName": "Prefab Package Example",
+    "description": "Prefab Package Example for UnityGithubPackageExample",
+    "unity": "2019.4",
+    "keywords": [
+        "tsgcpp",
+        "prefab"
+    ],
+    "license": "UNLICENSED",
+    "dependencies": {
+        "com.tsgcpp.unitygithubpackageexample.material": "3.5.7"
+    },
+    "author": {
+        "name": "tsgcpp",
+        "url": "https://github.com/tsgcpp"
+    },
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tsgcpp/UnityGithubPackageExample.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tsgcpp/UnityGithubPackageExample/issues"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@tsgcpp"
+    }
+}

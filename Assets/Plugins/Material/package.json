@@ -1,0 +1,30 @@
+{
+    "name": "com.tsgcpp.unitygithubpackageexample.material",
+    "version": "3.5.7",
+    "displayName": "Material Package Example",
+    "description": "Material Package Example for UnityGithubPackageExample",
+    "unity": "2019.4",
+    "keywords": [
+        "tsgcpp",
+        "material"
+    ],
+    "license": "UNLICENSED",
+    "dependencies": {},
+    "author": {
+        "name": "tsgcpp",
+        "url": "https://github.com/tsgcpp"
+    },
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tsgcpp/UnityGithubPackageExample.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tsgcpp/UnityGithubPackageExample/issues"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@tsgcpp"
+    }
+}
