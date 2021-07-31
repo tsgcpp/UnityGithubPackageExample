@@ -40,3 +40,6 @@ alwaysAuth = true
   }
 }
 ```
+# Blogs
+- [【GitHub Packages for Unity】限定配布も可能, GitHub Packages で Unity アセット配布](https://tsgcpp.hateblo.jp/entry/2021/08/01/001606)
+
