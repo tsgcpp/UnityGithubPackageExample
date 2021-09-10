@@ -1,7 +1,7 @@
 {
-    "name": "com.tsgcpp.unitygithubpackageexample.integration",
-    "version": "1.2.3",
     "displayName": "Integration Package Example",
+    "name": "com.tsgcpp.unitygithubpackageexample.integration",
+    "version": "0.0.5",
     "description": "Integration Package Example for UnityGithubPackageExample",
     "unity": "2019.4",
     "keywords": [
@@ -10,8 +10,8 @@
     ],
     "license": "UNLICENSED",
     "dependencies": {
-        "com.tsgcpp.unitygithubpackageexample.script": "2.3.4",
-        "com.tsgcpp.unitygithubpackageexample.prefab": "3.4.5"
+        "com.tsgcpp.unitygithubpackageexample.script": "0.0.1",
+        "com.tsgcpp.unitygithubpackageexample.prefab": "0.0.3"
     },
     "author": {
         "name": "tsgcpp",

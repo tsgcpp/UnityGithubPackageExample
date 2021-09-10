@@ -1,7 +1,7 @@
 {
-    "name": "com.tsgcpp.unitygithubpackageexample.script",
-    "version": "2.3.4",
     "displayName": "Script Package Example",
+    "name": "com.tsgcpp.unitygithubpackageexample.script",
+    "version": "0.0.1",
     "description": "Script Package Example for UnityGithubPackageExample",
     "unity": "2019.4",
     "keywords": [

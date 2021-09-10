@@ -1,7 +1,7 @@
 {
-    "name": "com.tsgcpp.unitygithubpackageexample.prefab",
-    "version": "3.4.5",
     "displayName": "Prefab Package Example",
+    "name": "com.tsgcpp.unitygithubpackageexample.prefab",
+    "version": "0.0.3",
     "description": "Prefab Package Example for UnityGithubPackageExample",
     "unity": "2019.4",
     "keywords": [
@@ -10,7 +10,7 @@
     ],
     "license": "UNLICENSED",
     "dependencies": {
-        "com.tsgcpp.unitygithubpackageexample.material": "3.5.7"
+        "com.tsgcpp.unitygithubpackageexample.material": "0.0.2"
     },
     "author": {
         "name": "tsgcpp",
